@@ -1,4 +1,4 @@
-UAS MATA KULIAH PENGOLAHAN CITRA DASAR
+UAS MATA KULIAH PENGOLAHAN CITRA DASAR<hr><br>
 Pemgrograman Operasi Sederhana Pengolahan Citra Digital Menggunakan Python
 <br><hr>
 Recruitments Package :
